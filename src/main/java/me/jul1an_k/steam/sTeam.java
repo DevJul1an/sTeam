@@ -14,7 +14,7 @@ import net.milkbowl.vault.permission.Permission;
 
 public class sTeam extends JavaPlugin {
 	
-	private FileConfiguration fc = YamlConfiguration.loadConfiguration(new File("plugins/sTeam", "config.yml"));
+	private final FileConfiguration fc = YamlConfiguration.loadConfiguration(new File("plugins/sTeam", "config.yml"));
 	
 	static String Prefix = "";
 	static String noPerm = "";

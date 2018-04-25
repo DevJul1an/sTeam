@@ -3,9 +3,6 @@ package me.jul1an_k.steam;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
-import org.bukkit.plugin.InvalidDescriptionException;
-import org.bukkit.plugin.InvalidPluginException;
-import org.bukkit.plugin.UnknownDependencyException;
 
 import me.jul1an_k.steam.update.FileUpdate;
 
