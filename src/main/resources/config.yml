@@ -1,0 +1,27 @@
+Header: 'Team'
+Footer: 'Team'
+
+SearchingMessage: 'You?'
+PlayerPrefix: '&5'
+PlayerSuffix: '&7: '
+FirstCharInGroupNameToUpperCase: true
+GroupPrefix: '&6'
+PlayerOnline: '&aOnline'
+PlayerOffline: '&cOffline'
+Prefix: '&8[&6sTeam&8]'
+NoPermission: '%prefix% &4You don''t have permission to use this command!'
+
+EnabledGroups:
+- Owner
+- Admin
+- Moderator
+- Supporter
+- Builder
+
+Searching:
+- Admin
+- Supporter
+- Builder
+
+Replace:
+  Owner: 'The best Group ever'

@@ -1,0 +1,13 @@
+name: sTeam
+version: ${project.version}
+author: Jul1an_K
+main: me.jul1an_k.steam.sTeam
+depend: [Vault]
+
+commands:
+  Team:
+    usage: /<command>
+    description: Shows the Team
+  sTeam:
+    usage: /<command> <args>
+    description: sTeam Command
